@@ -1,0 +1,34 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(imagens/fundo-madeira.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+    
+}
+body>button{
+    float: right;
+}
+body>div.botoes{
+    
+}
+div#iphone{
+    
+}
+div#botoes{
+    
+
+}
+div#botoes > img{
+   
+}
+div#tela{
+
+}
+div#tela > img{
+    
+    
+}
